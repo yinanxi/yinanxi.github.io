@@ -20,7 +20,7 @@ Selected coursework: Reinforcement Learning (100/100), Software Engineering (95/
 ## Experience
 
 **Research Intern · Wuhan United Imaging Healthcare**  
-Summer 2026 · Autonomous ultrasound scanning robot development using VLA models, multimodal sensing, and robot simulation.
+July 2026 · Autonomous ultrasound scanning robot development using VLA models, multimodal sensing, and robot simulation.
 
 **OJ Tutor Technical Lead · [MAIR Lab, HUST](https://mair-lab-hust.github.io/)**  
 April 2026 – Present · Architecture and development of the EduNexus programming tutor.
@@ -38,8 +38,8 @@ Spring 2025 · Multimodal image registration with advisor Xuming Zhang.
 
 ## Honors & awards
 
-- **Science and Technology Innovation Scholarship**, HUST · 2026
-- **Grand Prize**, Hubei “Challenge Cup” Undergraduate Competition (Top 1%) · 2025
+- **Science and Technology Innovation Scholarship**, HUST · September 2026
+- **National Grand Prize**, China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition · November 2025
 - **First Prize**, China Youth Science and Technology Innovation Challenge · 2025
 - **Self-Improvement Scholarship**, HUST · 2025
 - **Silver Medal**, iGEM International Genetically Engineered Machine Competition · 2024
