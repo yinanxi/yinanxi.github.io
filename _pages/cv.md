@@ -39,7 +39,7 @@ Spring 2025 · Multimodal image registration with advisor Xuming Zhang.
 ## Honors & awards
 
 - **Science and Technology Innovation Scholarship**, HUST · September 2026
-- **National Grand Prize**, China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition · November 2025
+- **National Special Prize (Top 0.03% nationwide)**, China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition · November 2025
 - **First Prize**, China Youth Science and Technology Innovation Challenge · 2025
 - **Self-Improvement Scholarship**, HUST · 2025
 - **Silver Medal**, iGEM International Genetically Engineered Machine Competition · 2024
