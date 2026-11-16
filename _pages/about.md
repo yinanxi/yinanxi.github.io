@@ -32,7 +32,7 @@ latest_posts:
 
 Hi! 👋 I am an undergraduate at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)**, pursuing a B.Eng. in Biomedical Engineering and a second bachelor's degree in Computer Science and Technology, with graduation expected in June 2027.
 
-At **[MAIR Lab, HUST](https://mair-lab-hust.github.io/)**, I am fortunate to work with [Prof. Zhiyuan Ma](https://ponymzy.github.io/) on diffusion-model alignment, while leading the development of the OJ Tutor component of [EduNexus](/projects/edunexus/). In summer 2025, I was fortunate to be a visiting student at the [Department of Electrical and Computer Engineering, North Carolina State University](https://ece.ncsu.edu/). In summer 2026, I joined [United Imaging Healthcare](https://www.united-imaging.com/en/) as a research intern, where I worked on an autonomous ultrasound scanning robot.
+At **[MAIR Lab, HUST](https://mair-lab-hust.github.io/)**, I am fortunate to work with [Prof. Zhiyuan Ma](https://ponymzy.github.io/) on diffusion-model alignment, while leading the development of the Code Tutor agent for [EduNexus](/projects/edunexus/), a multi-agent learning platform. In summer 2025, I was fortunate to be a visiting student at the [Department of Electrical and Computer Engineering, North Carolina State University](https://ece.ncsu.edu/). In summer 2026, I joined [United Imaging Healthcare](https://www.united-imaging.com/en/) as a research intern, where I worked on an autonomous ultrasound scanning robot.
 
 Beyond research, I enjoy tennis 🎾, traveling 🌌, debating 🎙️, piano 🎹, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello.
 
