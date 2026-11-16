@@ -9,6 +9,7 @@ profile:
   image_circular: false
   more_info: >
     <p>HUST · Wuhan, China</p>
+    <p style="font-family: 'Brush Script MT', 'Segoe Script', cursive; font-size: 1.12rem; font-style: italic; letter-spacing: 0.02em;">Per aspera ad astra</p>
 selected_papers: true
 social: true
 announcements:
@@ -23,7 +24,9 @@ My research interests center on **generative modeling and intelligent agents**: 
 
 At **MAIR Lab, HUST**, I am fortunate to work with [Prof. Zhiyuan Ma](https://ponymzy.github.io/) on diffusion-model alignment, while leading the development of the OJ Tutor component of [EduNexus](/projects/edunexus/). I have also explored autonomous ultrasound scanning at [United Imaging Healthcare](https://www.united-imaging.com/en/). In 2025, I was lucky to be a visiting student at the [Department of Electrical and Computer Engineering, North Carolina State University](https://ece.ncsu.edu/).
 
-Beyond research, I enjoy tennis 🎾, traveling 🌌, piano 🎹, debating 🎙️, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello. Space is the ultimate destination I dream of; until I get there, I hope to build robots that help us explore and understand our world, and make life on it better.
+Beyond research, I enjoy tennis 🎾, traveling 🌌, piano 🎹, debating 🎙️, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello.
+
+I hope to understand intelligence, build robots that can be my eyes beyond the stars, and turn autonomous discovery into longer, healthier lives.
 
 [Email](mailto:yinanxi010502@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en) · [GitHub](https://github.com/yinanxi) · [CV](/cv/)
 
