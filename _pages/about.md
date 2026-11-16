@@ -65,7 +65,8 @@ I dream of traveling through space, but if that dream remains beyond my reach, I
 ### Projects
 
 **[TMPO: Diverse and efficient diffusion alignment](/projects/tmpo/)**  
-Trajectory-level reward-distribution matching that improves diversity while maintaining competitive reward and efficiency. **NeurIPS 2026 · Poster.**
+Trajectory-level reward-distribution matching that improves diversity while maintaining competitive reward and efficiency. 
+**NeurIPS 2026 · Poster.**
 
 **[Autonomous Ultrasound Scanning Robot](/projects/ultrasound/)**  
 Connecting vision-language-action models, robot simulation, and multimodal sensing for medical robotics.
