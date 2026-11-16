@@ -26,7 +26,7 @@ Summer 2026 · Autonomous ultrasound scanning, VLA models, multimodal sensing, a
 April 2026 – Present · Architecture and development of the EduNexus programming tutor.
 
 **Diffusion Alignment Research · MAIR Lab, HUST**  
-Spring 2026 · TMPO with advisors Zhiyuan Ma and Bowen Zhou.
+Spring 2026 · TMPO with advisor [Prof. Zhiyuan Ma](https://ponymzy.github.io/).
 
 **GEARS Summer Research · NC State University**  
 Summer 2025 · Privacy-leak detection with advisor Bowen Xu.
