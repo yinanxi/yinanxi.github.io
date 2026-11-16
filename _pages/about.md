@@ -38,7 +38,7 @@ Beyond research, I enjoy tennis 🎾, traveling 🌌, debating 🎙️, piano �
 
 I dream of traveling through space, but if that dream remains beyond my reach, I hope to see my robots carry our imagination with them—helping us explore and understand our world for the betterment of humanity.
 
-[Email](mailto:yinanxi010502@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en) · [GitHub](https://github.com/yinanxi) · [LinkedIn](https://www.linkedin.com/in/nanxi-yi-b157ab288/) · [CV](/cv/)
+[Email](mailto:yinanxi010502@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en) · [GitHub](https://github.com/yinanxi) · [LinkedIn](https://www.linkedin.com/in/nanxi-yi-b157ab288/) · [CV](/assets/pdf/Nanxi_Yi_CV.pdf)
 
 ### News
 
