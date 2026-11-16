@@ -41,7 +41,7 @@ I dream of traveling through space, but if that dream remains beyond my reach, I
   <div>I joined <a href="https://www.united-imaging.com/en/">United Imaging Healthcare</a> as a research intern.</div>
 
   <div><strong>Nov 2025</strong></div>
-  <div>Our team won the <strong>National Grand Prize</strong> in the China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition! 🏆</div>
+  <div>Our team received a <strong>National Special Prize</strong> (Top 0.03% nationwide) in the China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition! 🏆</div>
 </div>
 
 ### Research interests
