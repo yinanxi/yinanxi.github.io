@@ -9,7 +9,7 @@ profile:
   image_circular: false
   more_info: >
     <p>HUST · Wuhan, China</p>
-    <p style="font-size: 1.25rem; font-style: italic;">“Per aspera ad astra”</p>
+    <p style="font-style: italic;">“Per aspera ad astra”</p>
 selected_papers: true
 social: true
 announcements:
