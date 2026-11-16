@@ -1,11 +1,11 @@
 ---
 layout: page
-title: "Autonomous Ultrasound Scanning"
+title: "Autonomous Ultrasound Scanning Robot"
 permalink: /projects/ultrasound/
 importance: 2
 period: "Summer 2026"
 role: "Research Intern \u00b7 United Imaging Healthcare"
-description: "Exploring generative policies, VLA models, and simulation for autonomous ultrasound robotics."
+description: "Exploring generative policies, VLA models, and simulation for an autonomous ultrasound scanning robot."
 ---
 
 At **Wuhan United Imaging Healthcare**, I studied imitation and diffusion policies, world-model navigation, hierarchical LLM/VLM planning, and end-to-end vision-language-action approaches. I proposed a staged development roadmap built around synchronized image, pose, force, and language data.
