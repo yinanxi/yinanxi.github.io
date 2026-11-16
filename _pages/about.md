@@ -9,7 +9,7 @@ profile:
   image_circular: false
   more_info: >
     <p>HUST · Wuhan, China</p>
-    <p style="font-style: italic;">“Per aspera ad astra”</p>
+    <p style="font-style: italic; color: var(--global-theme-color);">“Per aspera ad astra”</p>
 selected_papers: true
 social: true
 announcements:
@@ -26,7 +26,7 @@ At **MAIR Lab, HUST**, I am fortunate to work with [Prof. Zhiyuan Ma](https://po
 
 Beyond research, I enjoy tennis 🎾, traveling 🌌, piano 🎹, debating 🎙️, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello.
 
-I hope to understand intelligence, build robots that can be my eyes beyond the stars, and turn autonomous discovery into longer, healthier lives.
+I dream of traveling through space, but if that dream remains beyond my reach, I hope to see my robots carry our imagination with them—helping us explore and understand our world for the betterment of humanity.
 
 [Email](mailto:yinanxi010502@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en) · [GitHub](https://github.com/yinanxi) · [CV](/cv/)
 
