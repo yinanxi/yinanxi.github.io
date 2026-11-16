@@ -30,17 +30,19 @@ I dream of traveling through space, but if that dream remains beyond my reach, I
 
 ### News
 
-**Sep 2026**  
-Our work [**TMPO**](/projects/tmpo/) was accepted as a **poster** at **NeurIPS 2026**! 🎉🎉
+<div style="display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: 2rem; row-gap: 1rem; margin: 1.25rem 0 2rem;">
+  <div><strong>Sep 2026</strong></div>
+  <div>Our work <a href="/projects/tmpo/"><strong>TMPO</strong></a> was accepted as a <strong>poster</strong> at <strong>NeurIPS 2026</strong>! 🎉🎉</div>
 
-**Sep 2026**  
-I received the **HUST Science and Technology Innovation Scholarship**.
+  <div><strong>Sep 2026</strong></div>
+  <div>I received the <strong>HUST Science and Technology Innovation Scholarship</strong>.</div>
 
-**Jul 2026**  
-I joined [United Imaging Healthcare](https://www.united-imaging.com/en/) as a research intern.
+  <div><strong>Jul 2026</strong></div>
+  <div>I joined <a href="https://www.united-imaging.com/en/">United Imaging Healthcare</a> as a research intern.</div>
 
-**Nov 2025**  
-Our team won the **National Grand Prize** in the China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition! 🏆
+  <div><strong>Nov 2025</strong></div>
+  <div>Our team won the <strong>National Grand Prize</strong> in the China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition! 🏆</div>
+</div>
 
 ### Research interests
 
