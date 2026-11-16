@@ -11,6 +11,7 @@ profile:
     <p>HUST · Wuhan, China</p>
     <p style="font-style: italic; color: var(--global-theme-color);">“Per aspera ad astra”</p>
 selected_papers: true
+selected_papers_title: Selected Publications
 social: true
 announcements:
   enabled: false
@@ -44,13 +45,13 @@ I dream of traveling through space, but if that dream remains beyond my reach, I
   <div>Our team received a <strong>National Special Prize</strong> (Top 0.03% nationwide) in the China “Challenge Cup” National College Students’ Extracurricular Academic Science and Technology Works Competition! 🏆</div>
 </div>
 
-### Research interests
+### Research Interests
 
 - **World models & generative modeling:** diffusion and flow models, reward guidance and alignment, multimodal generation.
 - **Generative policies & physical AI:** vision-language-action models, diffusion policies, embodied agents, spatial intelligence, and 3D perception.
 - **Generative modeling for biology:** protein and DNA generation, variable-length generation, and autonomous laboratories for drug discovery.
 
-### Research in focus
+### Projects
 
 **[TMPO: Diverse and efficient diffusion alignment](/projects/tmpo/)**  
 Trajectory-level reward-distribution matching that improves diversity while maintaining competitive reward and efficiency. **NeurIPS 2026 · Poster.**
@@ -58,4 +59,4 @@ Trajectory-level reward-distribution matching that improves diversity while main
 **[Autonomous Ultrasound Scanning Robot](/projects/ultrasound/)**  
 Connecting vision-language-action models, robot simulation, and multimodal sensing for medical robotics.
 
-[Explore all research projects →](/projects/)
+[Explore all projects →](/projects/)
