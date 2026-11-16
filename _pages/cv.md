@@ -20,7 +20,7 @@ Selected coursework: Reinforcement Learning (100/100), Software Engineering (95/
 ## Experience
 
 **Research Intern · Wuhan United Imaging Healthcare**  
-Summer 2026 · Autonomous ultrasound scanning, VLA models, multimodal sensing, and robot simulation.
+Summer 2026 · Autonomous ultrasound scanning robot development using VLA models, multimodal sensing, and robot simulation.
 
 **OJ Tutor Technical Lead · MAIR Lab, HUST**  
 April 2026 – Present · Architecture and development of the EduNexus programming tutor.
