@@ -22,10 +22,10 @@ Selected coursework: Reinforcement Learning (100/100), Software Engineering (95/
 **Research Intern · Wuhan United Imaging Healthcare**  
 Summer 2026 · Autonomous ultrasound scanning robot development using VLA models, multimodal sensing, and robot simulation.
 
-**OJ Tutor Technical Lead · MAIR Lab, HUST**  
+**OJ Tutor Technical Lead · [MAIR Lab, HUST](https://mair-lab-hust.github.io/)**  
 April 2026 – Present · Architecture and development of the EduNexus programming tutor.
 
-**Diffusion Alignment Research · MAIR Lab, HUST**  
+**Diffusion Alignment Research · [MAIR Lab, HUST](https://mair-lab-hust.github.io/)**  
 Spring 2026 · TMPO with advisor [Prof. Zhiyuan Ma](https://ponymzy.github.io/).
 
 **GEARS Summer Research · NC State University**  
