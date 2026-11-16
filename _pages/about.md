@@ -28,6 +28,25 @@ I dream of traveling through space, but if that dream remains beyond my reach, I
 
 [Email](mailto:yinanxi010502@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en) · [GitHub](https://github.com/yinanxi) · [CV](/cv/)
 
+### News
+
+<div style="display: grid; grid-template-columns: max-content minmax(0, 1fr); column-gap: 2rem; row-gap: 1rem; margin: 1.25rem 0 2rem;">
+  <div><strong>2026</strong></div>
+  <div>Our work <a href="/projects/tmpo/"><strong>TMPO</strong></a> was accepted to <strong>NeurIPS 2026</strong>. 🎉</div>
+
+  <div><strong>Summer 2026</strong></div>
+  <div>I joined <a href="https://www.united-imaging.com/en/">United Imaging Healthcare</a> as a research intern to work on an autonomous ultrasound scanning robot.</div>
+
+  <div><strong>2026</strong></div>
+  <div>I received the <strong>HUST Science and Technology Innovation Scholarship</strong>.</div>
+
+  <div><strong>Summer 2025</strong></div>
+  <div>I was a visiting student at the <a href="https://ece.ncsu.edu/">Department of Electrical and Computer Engineering, North Carolina State University</a>.</div>
+
+  <div><strong>2025</strong></div>
+  <div>Our team won the <strong>Grand Prize</strong> at the Hubei “Challenge Cup” Undergraduate Competition (Top 1%). 🏆</div>
+</div>
+
 ### Research interests
 
 - **World models & generative modeling:** diffusion and flow models, reward guidance and alignment, multimodal generation.
