@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Undergraduate Researcher · Huazhong University of Science and Technology
+subtitle: Undergraduate Student · Huazhong University of Science and Technology
 profile:
   align: right
   image: nanxi-yi.jpg
