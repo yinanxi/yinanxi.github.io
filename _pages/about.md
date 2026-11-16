@@ -21,9 +21,9 @@ I am an undergraduate at **Huazhong University of Science and Technology (HUST)*
 
 My research interests center on **generative modeling and intelligent agents**: how to learn useful models of the world, align generative models with rewards, and turn generation into action. I am also interested in bringing these methods to biological discovery.
 
-At **MAIR Lab, HUST**, I am fortunate to work with [**Prof. Zhiyuan Ma**](https://ponymzy.github.io/) on diffusion-model alignment, while leading the development of the OJ Tutor component of **EduNexus**. I have also explored autonomous ultrasound scanning at **United Imaging Healthcare**. In 2025, I was lucky to be a visiting student at the [**Department of Electrical and Computer Engineering, North Carolina State University**](https://ece.ncsu.edu/).
+At **MAIR Lab, HUST**, I am fortunate to work with [Prof. Zhiyuan Ma](https://ponymzy.github.io/) on diffusion-model alignment, while leading the development of the OJ Tutor component of [EduNexus](/projects/edunexus/). I have also explored autonomous ultrasound scanning at [United Imaging Healthcare](https://www.united-imaging.com/en/). In 2025, I was lucky to be a visiting student at the [Department of Electrical and Computer Engineering, North Carolina State University](https://ece.ncsu.edu/).
 
-Beyond research, I enjoy tennis 🎾, swimming 🏊, piano 🎹, debating 🎙️, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello. Space is the ultimate destination I dream of; until I get there, I hope to build robots that help us explore and understand our world, and make life on it better.
+Beyond research, I enjoy tennis 🎾, traveling 🌌, piano 🎹, debating 🎙️, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello. Space is the ultimate destination I dream of; until I get there, I hope to build robots that help us explore and understand our world, and make life on it better.
 
 [Email](mailto:yinanxi010502@gmail.com) · [Google Scholar](https://scholar.google.com/citations?user=Y3Cx1I0AAAAJ&hl=en) · [GitHub](https://github.com/yinanxi) · [CV](/cv/)
 
