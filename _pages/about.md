@@ -20,8 +20,6 @@ latest_posts:
 
 I am an undergraduate at **Huazhong University of Science and Technology (HUST)**, pursuing a B.Eng. in Biomedical Engineering and a second bachelor's degree in Computer Science and Technology, with graduation expected in June 2027.
 
-My research interests center on **generative modeling and intelligent agents**: how to learn useful models of the world, align generative models with rewards, and turn generation into action. I am also interested in bringing these methods to biological discovery.
-
 At **MAIR Lab, HUST**, I am fortunate to work with [Prof. Zhiyuan Ma](https://ponymzy.github.io/) on diffusion-model alignment, while leading the development of the OJ Tutor component of [EduNexus](/projects/edunexus/). In summer 2025, I was fortunate to be a visiting student at the [Department of Electrical and Computer Engineering, North Carolina State University](https://ece.ncsu.edu/). In summer 2026, I joined [United Imaging Healthcare](https://www.united-imaging.com/en/) as a research intern, where I explored autonomous ultrasound scanning.
 
 Beyond research, I enjoy tennis 🎾, traveling 🌌, piano 🎹, debating 🎙️, and nature photography 📷. I am always excited to meet curious people and explore new collaborations, so feel free to email me with a research idea—or simply to say hello.
