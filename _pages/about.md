@@ -21,6 +21,13 @@ latest_posts:
 
 <style>
   h2 a[href="/publications/"] { text-transform: capitalize; }
+  article .clearfix > h3,
+  article > h2 { margin-top: 3.5rem; }
+
+  @media (max-width: 576px) {
+    article .clearfix > h3,
+    article > h2 { margin-top: 2.75rem; }
+  }
 </style>
 
 Hi, I am an undergraduate at **[Huazhong University of Science and Technology (HUST)](https://www.hust.edu.cn/)**, pursuing a B.Eng. in Biomedical Engineering and a second bachelor's degree in Computer Science and Technology, with graduation expected in June 2027.
